@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358089542646",
+    "project_id": "toggleapp-30e9b",
+    "storage_bucket": "toggleapp-30e9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358089542646:android:5bee497dc0924b9f3255d7",
+        "android_client_info": {
+          "package_name": "com.example.togglebutton"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB31Q4GY5PwZUAAZqLZ4xnex4AxPPkudgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
